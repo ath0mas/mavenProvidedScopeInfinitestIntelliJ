@@ -1,0 +1,1 @@
+Small maven project to reproduce **infinitest** [Issue #77](https://github.com/infinitest/infinitest/issues/77).
